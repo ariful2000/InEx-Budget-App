@@ -136,7 +136,7 @@ var budgetController = (function() {
             a=20
             b=10
             c=40
-            total income will be = 100
+           
             
             and in percentage:
 
